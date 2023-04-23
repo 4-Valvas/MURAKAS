@@ -1,5 +1,7 @@
 # MURAKAS
-MURAKAS is my first attempt of prototyping a device,  PCB design and logging the processes to make a device network with uses low power and has a long range.
+MURAKAS is my first attempt of prototyping a device,  PCB design and logging the processes to make a device network with uses low power and has a long range. 
+
+Name is acronym in Estonian: Maas Ulatuv Raadiosidega vArustatud Keskne Andurite Süsteem
 
 # MURAKAS V1
 V1 is the first idea on paper. I used an Arduino pro mini and a LoRa rfm95 to test the concept. Due to LoRa rfm95´s smaller pin header, I decided to also make my first PCB.
