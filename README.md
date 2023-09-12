@@ -10,5 +10,4 @@ Sender a receiver codes are LoRa library example codes.
 PCB files of V1 are not available due to lack of skill when design it, and I think that you can make a better design if you want to replicate this system.
 
 ![Screenshot 2023-04-23 161626](https://user-images.githubusercontent.com/124153477/233841961-c82d1281-6863-4b54-8369-5c0fcf2402c9.png)
-<img src="https://github.com/4-Valvas/MURAKAS/assets/124153477/d93b25ac-18ff-4b33-8bf6-9840d99badf5" width="352">
-
+<img src="https://github.com/4-Valvas/MURAKAS/assets/124153477/975379fd-57f9-481d-93f2-41c32781feeb" width="352">
